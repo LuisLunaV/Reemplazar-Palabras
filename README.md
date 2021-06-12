@@ -1,13 +1,3 @@
-# Webpack Starter
-Este esl proyecto inicial para crear
-apliaciones utilizando webpack.
+# Reemplazo de marcadores
+Sistema de reemplazo y busqueda de palabras (o caracteres) dentro de un texto.
 
-### Notas:
-Recuerden reconstruir los modulos de Node
-```
-npm install
-```
-Y para construir el build, recuerden:
-```
-npm run build 
-``` 
