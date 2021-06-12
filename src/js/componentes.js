@@ -26,7 +26,7 @@ export const reemplazar=()=>{
     
 let splitCadena=cadenaTexto.split(' ');
 
-let nuevaCadena =splitCadena.map(elem=> elem.replace('hola','adios'));
+let nuevaCadena =splitCadena.map(elem=> elem.replace(palabra, nuevaPalabra));
 
 texto.value=nuevaCadena.join(' ');;
 
